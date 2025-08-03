@@ -17,5 +17,5 @@ I am a freelance writer and researcher with over 3 years of experience in conten
 - GitHub: [https://github.com/yourusername](https://github.com/yourusername)
 
 ## 📬 Contact Me
-Email: your.email@example.com  
-Phone: +91-XXXXXXXXXX
+Email: syedmaqboolhussain842@gmail.com  
+Phone: +91-9906441247
