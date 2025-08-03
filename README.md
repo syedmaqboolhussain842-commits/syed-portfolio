@@ -11,7 +11,7 @@ I am a freelance writer and researcher with over 3 years of experience in conten
 - [Cover Letter (DOCX)](./Syed_Maqbool_Hussain_Cover_Letter.docx)
 
 ## 🌐 Links
-- Portfolio Website: [GitHub Pages Link](https://yourusername.github.io/syed-portfolio/)
+- Portfolio Website: [GitHub Pages Link](https://syedmaqboolhussain842-commits.github.io/syed-portfolio/)
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/syed-maqbool-hussain-a3b507378/)
 
 
