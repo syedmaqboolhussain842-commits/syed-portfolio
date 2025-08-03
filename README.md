@@ -12,7 +12,7 @@ I am a freelance writer and researcher with over 3 years of experience in conten
 
 ## 🌐 Links
 - Portfolio Website: [GitHub Pages Link](https://yourusername.github.io/syed-portfolio/)
-- LinkedIn: [https://linkedin.com/in/yourprofile](www.linkedin.com/in/syed-maqbool-hussain-a3b507378)
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/syed-maqbool-hussain-a3b507378/)
 
 
 
