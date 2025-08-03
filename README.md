@@ -12,9 +12,9 @@ I am a freelance writer and researcher with over 3 years of experience in conten
 
 ## 🌐 Links
 - Portfolio Website: [GitHub Pages Link](https://yourusername.github.io/syed-portfolio/)
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [https://twitter.com/yourhandle](https://twitter.com/yourhandle)
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- LinkedIn: [https://linkedin.com/in/yourprofile](www.linkedin.com/in/syed-maqbool-hussain-a3b507378)
+
+
 
 ## 📬 Contact Me
 Email: syedmaqboolhussain842@gmail.com  
